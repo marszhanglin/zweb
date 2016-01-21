@@ -1,0 +1,773 @@
+2015-09-17 11:13:13 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 11:13:13 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 11:13:13 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 11:13:13 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 11:13:13 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 11:13:13 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 11:13:13 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 11:14:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:14:03 CST 2015
+2015-09-17 11:14:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:14:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:15:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:15:03 CST 2015
+2015-09-17 11:15:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:15:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:16:17 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 11:16:17 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 11:16:17 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 11:16:17 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 11:16:17 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 11:16:17 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 11:16:17 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 11:17:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:17:03 CST 2015
+2015-09-17 11:17:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:17:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:18:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:18:03 CST 2015
+2015-09-17 11:18:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:18:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:19:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:19:03 CST 2015
+2015-09-17 11:19:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:19:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:19:29 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 11:19:29 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 11:19:29 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 11:19:29 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 11:19:29 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 11:19:29 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 11:19:29 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 11:20:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:20:03 CST 2015
+2015-09-17 11:20:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:20:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:21:06 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 11:21:06 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 11:21:06 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 11:21:06 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 11:21:06 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 11:21:06 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 11:21:06 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 11:21:44 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 11:21:44 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 11:21:44 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 11:21:44 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 11:21:44 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 11:21:44 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 11:21:44 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 11:22:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:22:03 CST 2015
+2015-09-17 11:22:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:22:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:23:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:23:03 CST 2015
+2015-09-17 11:23:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:23:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:23:27 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 11:23:27 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 11:23:27 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 11:23:27 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 11:23:27 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 11:23:27 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 11:23:27 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 11:24:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:24:03 CST 2015
+2015-09-17 11:24:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:24:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:25:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:25:03 CST 2015
+2015-09-17 11:25:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:25:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:26:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:26:03 CST 2015
+2015-09-17 11:26:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:26:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:27:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:27:03 CST 2015
+2015-09-17 11:27:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:27:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:28:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:28:03 CST 2015
+2015-09-17 11:28:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:28:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:29:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:29:03 CST 2015
+2015-09-17 11:29:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:29:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:30:03 CST 2015
+2015-09-17 11:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:31:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:31:03 CST 2015
+2015-09-17 11:31:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:31:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:32:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:32:03 CST 2015
+2015-09-17 11:32:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:32:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:33:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:33:03 CST 2015
+2015-09-17 11:33:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:33:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:34:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:34:03 CST 2015
+2015-09-17 11:34:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:34:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:35:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:35:03 CST 2015
+2015-09-17 11:35:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:35:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:36:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:36:03 CST 2015
+2015-09-17 11:36:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:36:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:37:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:37:03 CST 2015
+2015-09-17 11:37:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:37:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:38:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:38:03 CST 2015
+2015-09-17 11:38:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:38:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:39:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:39:03 CST 2015
+2015-09-17 11:39:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:39:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:40:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:40:03 CST 2015
+2015-09-17 11:40:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:40:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:41:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:41:03 CST 2015
+2015-09-17 11:41:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:41:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:42:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:42:03 CST 2015
+2015-09-17 11:42:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:42:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:43:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:43:03 CST 2015
+2015-09-17 11:43:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:43:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:44:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:44:03 CST 2015
+2015-09-17 11:44:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:44:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:45:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:45:03 CST 2015
+2015-09-17 11:45:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:45:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:46:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:46:03 CST 2015
+2015-09-17 11:46:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:46:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:47:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:47:03 CST 2015
+2015-09-17 11:47:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:47:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:47:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\event_list_at.xml - Size: 5718
+2015-09-17 11:48:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:48:03 CST 2015
+2015-09-17 11:48:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:48:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:48:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\event_list_at.xml - Size: 5718
+2015-09-17 11:49:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:49:03 CST 2015
+2015-09-17 11:49:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:49:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:49:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\event_list_at.xml - Size: 5718
+2015-09-17 11:50:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:50:03 CST 2015
+2015-09-17 11:50:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:50:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:50:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\event_list_at.xml - Size: 5718
+2015-09-17 11:51:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:51:03 CST 2015
+2015-09-17 11:51:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:51:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:51:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\event_list_at.xml - Size: 5718
+2015-09-17 11:52:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:52:03 CST 2015
+2015-09-17 11:52:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:52:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:52:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\event_list_at.xml - Size: 5718
+2015-09-17 11:53:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:53:03 CST 2015
+2015-09-17 11:53:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (2).xml - Size: 14
+2015-09-17 11:53:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\a - 副本 (3).xml - Size: 14
+2015-09-17 11:53:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] F:\test\event_list_at.xml - Size: 5718
+2015-09-17 11:53:25 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 11:53:25 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 11:53:25 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 11:53:25 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 11:53:25 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 11:53:25 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 11:53:25 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 11:54:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:54:03 CST 2015
+2015-09-17 11:54:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 18790
+2015-09-17 11:55:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:55:03 CST 2015
+2015-09-17 11:55:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 19033
+2015-09-17 11:56:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:56:03 CST 2015
+2015-09-17 11:56:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 19276
+2015-09-17 11:57:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:57:03 CST 2015
+2015-09-17 11:57:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 19519
+2015-09-17 11:58:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:58:03 CST 2015
+2015-09-17 11:58:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 19762
+2015-09-17 11:59:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 11:59:03 CST 2015
+2015-09-17 11:59:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 20005
+2015-09-17 12:00:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 12:00:03 CST 2015
+2015-09-17 12:00:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 20248
+2015-09-17 12:01:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] scandir fired at Thu Sep 17 12:01:03 CST 2015
+2015-09-17 12:01:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 20491
+2015-09-17 19:15:09 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 19:15:09 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 19:15:09 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 19:15:09 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 19:15:09 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 19:15:09 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 19:15:09 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 19:16:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:16:03 CST 2015
+2015-09-17 19:16:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 21604
+2015-09-17 19:16:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:17:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:17:03 CST 2015
+2015-09-17 19:17:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 21937
+2015-09-17 19:17:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:18:10 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 19:18:10 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 19:18:10 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 19:18:10 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 19:18:10 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 19:18:10 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 19:18:10 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 19:19:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:19:03 CST 2015
+2015-09-17 19:19:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 23131
+2015-09-17 19:19:14 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:20:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:20:03 CST 2015
+2015-09-17 19:20:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 23464
+2015-09-17 19:20:17 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:21:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:21:03 CST 2015
+2015-09-17 19:21:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 23797
+2015-09-17 19:21:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:22:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:22:03 CST 2015
+2015-09-17 19:22:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 24130
+2015-09-17 19:22:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:23:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:23:03 CST 2015
+2015-09-17 19:23:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 24463
+2015-09-17 19:23:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:24:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:24:03 CST 2015
+2015-09-17 19:24:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 24796
+2015-09-17 19:24:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:25:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:25:03 CST 2015
+2015-09-17 19:25:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 25129
+2015-09-17 19:25:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:26:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:26:03 CST 2015
+2015-09-17 19:26:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 25462
+2015-09-17 19:26:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:27:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:27:03 CST 2015
+2015-09-17 19:27:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 25795
+2015-09-17 19:27:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:27:54 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 19:27:54 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 19:27:54 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 19:27:54 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 19:27:54 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 19:27:54 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 19:27:54 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 19:28:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:28:03 CST 2015
+2015-09-17 19:28:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 26989
+2015-09-17 19:28:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:28:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:28:03 CST 2015
+2015-09-17 19:28:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 27322
+2015-09-17 19:28:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:29:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:29:03 CST 2015
+2015-09-17 19:29:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 27655
+2015-09-17 19:29:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:29:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:29:03 CST 2015
+2015-09-17 19:29:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 27988
+2015-09-17 19:29:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:30:03 CST 2015
+2015-09-17 19:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:30:03 CST 2015
+2015-09-17 19:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 28440
+2015-09-17 19:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 28440
+2015-09-17 19:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:30:39 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 19:30:40 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 19:30:40 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 19:30:40 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 19:30:40 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 19:30:40 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 19:30:40 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 19:31:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:31:03 CST 2015
+2015-09-17 19:31:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 29848
+2015-09-17 19:31:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:32:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:32:03 CST 2015
+2015-09-17 19:32:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 30181
+2015-09-17 19:32:31 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:33:04 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 19:33:04 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 19:33:04 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 19:33:04 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 19:33:04 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 19:33:04 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 19:33:04 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 19:34:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:34:03 CST 2015
+2015-09-17 19:34:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 31375
+2015-09-17 19:34:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:35:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:35:03 CST 2015
+2015-09-17 19:35:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 31708
+2015-09-17 19:35:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:36:23 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 19:36:23 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 19:36:23 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 19:36:23 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 19:36:23 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 19:36:23 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 19:36:23 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 19:37:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:37:03 CST 2015
+2015-09-17 19:37:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 32902
+2015-09-17 19:37:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:38:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:38:03 CST 2015
+2015-09-17 19:38:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 33235
+2015-09-17 19:38:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:38:18 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 19:38:18 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 19:38:18 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 19:38:18 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 19:38:18 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 19:38:18 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 19:38:18 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 19:39:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:39:03 CST 2015
+2015-09-17 19:39:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 34429
+2015-09-17 19:39:22 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:40:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:40:03 CST 2015
+2015-09-17 19:40:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 34762
+2015-09-17 19:40:20 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:41:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:41:03 CST 2015
+2015-09-17 19:41:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 35095
+2015-09-17 19:41:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:41:34 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-09-17 19:41:34 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-09-17 19:41:34 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-09-17 19:41:34 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-09-17 19:41:34 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-09-17 19:41:34 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-09-17 19:41:34 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-09-17 19:42:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:42:03 CST 2015
+2015-09-17 19:42:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 36289
+2015-09-17 19:42:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:43:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:43:03 CST 2015
+2015-09-17 19:43:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 36622
+2015-09-17 19:43:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:44:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:44:03 CST 2015
+2015-09-17 19:44:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 36955
+2015-09-17 19:44:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:45:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:45:03 CST 2015
+2015-09-17 19:45:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 37288
+2015-09-17 19:45:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:46:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:46:03 CST 2015
+2015-09-17 19:46:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 37621
+2015-09-17 19:46:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:47:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:47:03 CST 2015
+2015-09-17 19:47:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 37954
+2015-09-17 19:47:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:48:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:48:03 CST 2015
+2015-09-17 19:48:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 38287
+2015-09-17 19:48:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] 执行次数：1
+2015-09-17 19:49:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:49:03 CST 2015
+2015-09-17 19:49:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 38620
+2015-09-17 19:50:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:50:03 CST 2015
+2015-09-17 19:50:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 38872
+2015-09-17 19:51:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:51:03 CST 2015
+2015-09-17 19:51:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 39124
+2015-09-17 19:52:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:52:03 CST 2015
+2015-09-17 19:52:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 39376
+2015-09-17 19:53:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:53:03 CST 2015
+2015-09-17 19:53:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 39628
+2015-09-17 19:54:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:54:03 CST 2015
+2015-09-17 19:54:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 39880
+2015-09-17 19:55:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:55:03 CST 2015
+2015-09-17 19:55:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 40132
+2015-09-17 19:56:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:56:03 CST 2015
+2015-09-17 19:56:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 40384
+2015-09-17 19:57:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:57:03 CST 2015
+2015-09-17 19:57:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 40636
+2015-09-17 19:58:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:58:03 CST 2015
+2015-09-17 19:58:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 40888
+2015-09-17 19:59:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 19:59:03 CST 2015
+2015-09-17 19:59:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 41140
+2015-09-17 20:00:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:00:03 CST 2015
+2015-09-17 20:00:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 41392
+2015-09-17 20:01:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:01:03 CST 2015
+2015-09-17 20:01:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 41644
+2015-09-17 20:02:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:02:03 CST 2015
+2015-09-17 20:02:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 41896
+2015-09-17 20:03:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:03:03 CST 2015
+2015-09-17 20:03:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 42148
+2015-09-17 20:04:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:04:03 CST 2015
+2015-09-17 20:04:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 42400
+2015-09-17 20:05:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:05:03 CST 2015
+2015-09-17 20:05:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 42652
+2015-09-17 20:06:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:06:03 CST 2015
+2015-09-17 20:06:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 42904
+2015-09-17 20:07:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:07:03 CST 2015
+2015-09-17 20:07:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 43156
+2015-09-17 20:08:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:08:03 CST 2015
+2015-09-17 20:08:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 43408
+2015-09-17 20:09:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:09:03 CST 2015
+2015-09-17 20:09:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 43660
+2015-09-17 20:10:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:10:03 CST 2015
+2015-09-17 20:10:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 43912
+2015-09-17 20:11:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:11:03 CST 2015
+2015-09-17 20:11:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 44164
+2015-09-17 20:12:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:12:03 CST 2015
+2015-09-17 20:12:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 44416
+2015-09-17 20:13:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:13:03 CST 2015
+2015-09-17 20:13:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 44668
+2015-09-17 20:14:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:14:03 CST 2015
+2015-09-17 20:14:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 44920
+2015-09-17 20:15:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:15:03 CST 2015
+2015-09-17 20:15:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 45172
+2015-09-17 20:16:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:16:03 CST 2015
+2015-09-17 20:16:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 45424
+2015-09-17 20:17:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:17:03 CST 2015
+2015-09-17 20:17:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 45676
+2015-09-17 20:18:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:18:03 CST 2015
+2015-09-17 20:18:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 45928
+2015-09-17 20:19:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:19:03 CST 2015
+2015-09-17 20:19:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 46180
+2015-09-17 20:20:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:20:03 CST 2015
+2015-09-17 20:20:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 46432
+2015-09-17 20:21:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:21:03 CST 2015
+2015-09-17 20:21:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 46684
+2015-09-17 20:22:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:22:03 CST 2015
+2015-09-17 20:22:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 46936
+2015-09-17 20:23:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:23:03 CST 2015
+2015-09-17 20:23:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 47188
+2015-09-17 20:24:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:24:03 CST 2015
+2015-09-17 20:24:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 47440
+2015-09-17 20:25:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:25:03 CST 2015
+2015-09-17 20:25:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 47692
+2015-09-17 20:26:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:26:03 CST 2015
+2015-09-17 20:26:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 47944
+2015-09-17 20:27:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Sep 17 20:27:03 CST 2015
+2015-09-17 20:27:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 48196
+2015-10-09 11:29:23 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-09 11:29:23 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-09 11:29:23 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-09 11:29:23 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-09 11:29:23 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-09 11:29:23 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-09 11:29:23 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-09 11:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 09 11:30:03 CST 2015
+2015-10-09 11:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 49309
+2015-10-09 11:31:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 09 11:31:03 CST 2015
+2015-10-09 11:31:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 49561
+2015-10-09 11:32:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 09 11:32:03 CST 2015
+2015-10-09 11:32:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 49813
+2015-10-09 11:33:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 09 11:33:03 CST 2015
+2015-10-09 11:33:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 50065
+2015-10-16 10:35:18 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 10:35:18 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 10:35:18 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 10:35:18 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 10:35:18 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 10:35:18 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 10:35:18 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 10:35:45 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 10:35:45 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 10:35:45 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 10:35:45 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 10:35:45 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 10:35:45 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 10:35:45 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 10:36:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 10:36:03 CST 2015
+2015-10-16 10:36:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 52039
+2015-10-16 10:36:19 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 10:36:19 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 10:36:19 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 10:36:19 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 10:36:19 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 10:36:19 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 10:36:19 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 10:37:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 10:37:03 CST 2015
+2015-10-16 10:37:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 53152
+2015-10-16 10:38:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 10:38:03 CST 2015
+2015-10-16 10:38:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 53404
+2015-10-16 10:39:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 10:39:03 CST 2015
+2015-10-16 10:39:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 53656
+2015-10-16 10:40:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 10:40:03 CST 2015
+2015-10-16 10:40:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 53908
+2015-10-16 10:40:13 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 10:40:13 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 10:40:13 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 10:40:13 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 10:40:13 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 10:40:13 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 10:40:13 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 10:41:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 10:41:03 CST 2015
+2015-10-16 10:41:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 55021
+2015-10-16 10:41:45 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 10:41:45 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 10:41:45 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 10:41:45 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 10:41:45 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 10:41:45 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 10:41:45 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 10:42:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 10:42:03 CST 2015
+2015-10-16 10:42:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 56134
+2015-10-16 10:43:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 10:43:03 CST 2015
+2015-10-16 10:43:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 56386
+2015-10-16 10:43:43 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 10:43:43 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 10:43:43 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 10:43:43 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 10:43:43 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 10:43:43 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 10:43:43 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 10:47:50 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 10:47:50 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 10:47:50 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 10:47:50 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 10:47:50 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 10:47:50 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 10:47:50 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 10:51:54 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 10:51:54 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 10:51:54 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 10:51:54 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 10:51:54 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 10:51:54 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 10:51:54 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 10:52:03 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 10:52:03 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 10:52:03 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 10:52:03 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 10:52:03 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 10:52:03 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 10:52:03 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 10:54:50 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 10:54:50 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 10:54:50 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 10:54:50 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 10:54:50 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 10:54:50 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 10:54:50 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 11:02:46 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 11:02:46 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 11:02:46 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 11:02:46 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 11:02:46 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 11:02:46 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 11:02:46 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 11:03:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 11:03:03 CST 2015
+2015-10-16 11:03:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 61804
+2015-10-16 11:04:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 11:04:03 CST 2015
+2015-10-16 11:04:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 62056
+2015-10-16 11:05:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 11:05:03 CST 2015
+2015-10-16 11:05:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 62308
+2015-10-16 11:06:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 11:06:03 CST 2015
+2015-10-16 11:06:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 62560
+2015-10-16 11:07:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 11:07:03 CST 2015
+2015-10-16 11:07:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 62812
+2015-10-16 11:08:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 11:08:03 CST 2015
+2015-10-16 11:08:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 63064
+2015-10-16 15:41:03 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 15:41:03 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 15:41:03 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 15:41:03 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 15:41:03 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 15:41:03 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 15:41:03 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 15:41:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:41:03 CST 2015
+2015-10-16 15:41:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 64177
+2015-10-16 15:42:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:42:03 CST 2015
+2015-10-16 15:42:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 64429
+2015-10-16 15:44:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:44:03 CST 2015
+2015-10-16 15:44:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 64681
+2015-10-16 15:45:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:45:03 CST 2015
+2015-10-16 15:45:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 64933
+2015-10-16 15:46:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:46:03 CST 2015
+2015-10-16 15:46:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 65185
+2015-10-16 15:47:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:47:03 CST 2015
+2015-10-16 15:47:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 65437
+2015-10-16 15:48:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:48:03 CST 2015
+2015-10-16 15:48:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 65689
+2015-10-16 15:49:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:49:03 CST 2015
+2015-10-16 15:49:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 65941
+2015-10-16 15:50:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:50:03 CST 2015
+2015-10-16 15:50:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 66193
+2015-10-16 15:51:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:51:03 CST 2015
+2015-10-16 15:51:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 66445
+2015-10-16 15:52:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:52:03 CST 2015
+2015-10-16 15:52:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 66697
+2015-10-16 15:53:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:53:03 CST 2015
+2015-10-16 15:53:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 66949
+2015-10-16 15:54:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:54:03 CST 2015
+2015-10-16 15:54:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 67201
+2015-10-16 15:55:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:55:03 CST 2015
+2015-10-16 15:55:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 67453
+2015-10-16 15:56:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:56:03 CST 2015
+2015-10-16 15:56:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 67705
+2015-10-16 15:57:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:57:03 CST 2015
+2015-10-16 15:57:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 67957
+2015-10-16 15:58:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:58:03 CST 2015
+2015-10-16 15:58:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 68209
+2015-10-16 15:58:05 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 15:58:05 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 15:58:05 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 15:58:05 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 15:58:05 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 15:58:05 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 15:58:05 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 15:59:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:59:03 CST 2015
+2015-10-16 15:59:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 69322
+2015-10-16 15:59:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 15:59:03 CST 2015
+2015-10-16 15:59:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 69574
+2015-10-16 16:00:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:00:03 CST 2015
+2015-10-16 16:00:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 69826
+2015-10-16 16:00:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 69959
+2015-10-16 16:01:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:01:03 CST 2015
+2015-10-16 16:01:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 70211
+2015-10-16 16:01:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:01:03 CST 2015
+2015-10-16 16:01:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 70463
+2015-10-16 16:01:50 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 16:01:50 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 16:01:50 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 16:01:50 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 16:01:50 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 16:01:50 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 16:01:50 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 16:02:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:02:03 CST 2015
+2015-10-16 16:02:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 71576
+2015-10-16 16:03:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:03:03 CST 2015
+2015-10-16 16:03:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 71828
+2015-10-16 16:04:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:04:03 CST 2015
+2015-10-16 16:04:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 72080
+2015-10-16 16:05:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:05:03 CST 2015
+2015-10-16 16:05:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 72332
+2015-10-16 16:06:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:06:03 CST 2015
+2015-10-16 16:06:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 72584
+2015-10-16 16:07:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:07:03 CST 2015
+2015-10-16 16:07:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 72836
+2015-10-16 16:08:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:08:03 CST 2015
+2015-10-16 16:08:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 73088
+2015-10-16 16:09:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:09:03 CST 2015
+2015-10-16 16:09:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 73340
+2015-10-16 16:10:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:10:03 CST 2015
+2015-10-16 16:10:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 73592
+2015-10-16 16:11:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:11:03 CST 2015
+2015-10-16 16:11:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 73844
+2015-10-16 16:12:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:12:03 CST 2015
+2015-10-16 16:12:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 74096
+2015-10-16 16:13:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:13:03 CST 2015
+2015-10-16 16:13:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 74348
+2015-10-16 16:18:06 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 16:18:06 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 16:18:06 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 16:18:06 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 16:18:06 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 16:18:06 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 16:18:06 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 16:19:27 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 16:19:27 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 16:19:27 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 16:19:27 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 16:19:27 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 16:19:27 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 16:19:27 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 16:20:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:20:03 CST 2015
+2015-10-16 16:20:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 76322
+2015-10-16 16:21:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:21:03 CST 2015
+2015-10-16 16:21:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 76574
+2015-10-16 16:23:12 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 16:23:12 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 16:23:12 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 16:23:12 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 16:23:12 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 16:23:12 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 16:23:12 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 16:24:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:24:03 CST 2015
+2015-10-16 16:24:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 77687
+2015-10-16 16:25:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:25:03 CST 2015
+2015-10-16 16:25:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 77939
+2015-10-16 16:26:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:26:03 CST 2015
+2015-10-16 16:26:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 78191
+2015-10-16 16:27:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:27:03 CST 2015
+2015-10-16 16:27:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 78443
+2015-10-16 16:28:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:28:03 CST 2015
+2015-10-16 16:28:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 78695
+2015-10-16 16:29:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:29:03 CST 2015
+2015-10-16 16:29:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 78947
+2015-10-16 16:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:30:03 CST 2015
+2015-10-16 16:30:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 79199
+2015-10-16 16:31:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:31:03 CST 2015
+2015-10-16 16:31:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 79451
+2015-10-16 16:32:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:32:03 CST 2015
+2015-10-16 16:32:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 79703
+2015-10-16 16:33:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:33:03 CST 2015
+2015-10-16 16:33:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 79955
+2015-10-16 16:34:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:34:03 CST 2015
+2015-10-16 16:34:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 80207
+2015-10-16 16:35:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:35:03 CST 2015
+2015-10-16 16:35:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 80459
+2015-10-16 16:35:40 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 16:35:40 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 16:35:40 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 16:35:40 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 16:35:40 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 16:35:40 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 16:35:40 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-15 16:38:14 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-15 16:38:14 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-15 16:38:14 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-15 16:38:14 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-15 16:38:14 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-15 16:38:14 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-15 16:38:14 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-15 16:39:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Thu Oct 15 16:39:03 CST 2015
+2015-10-15 16:39:03 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 82433
+2015-10-16 16:39:52 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:39:52 CST 2015
+2015-10-16 16:39:52 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 82685
+2015-10-18 16:43:15 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Sun Oct 18 16:43:15 CST 2015
+2015-10-18 16:43:15 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 82937
+2015-10-16 16:50:51 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 16:50:51 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 16:50:51 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 16:50:51 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 16:50:51 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 16:50:51 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 16:50:52 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 16:51:41 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-16 16:51:41 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-16 16:51:41 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-16 16:51:41 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-16 16:51:41 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-16 16:51:41 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-16 16:51:41 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-16 16:51:41 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:51:41 CST 2015
+2015-10-16 16:51:41 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 84911
+2015-10-16 16:51:44 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:51:44 CST 2015
+2015-10-16 16:51:44 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 85163
+2015-10-16 16:51:47 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:51:47 CST 2015
+2015-10-16 16:51:47 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 85415
+2015-10-16 16:51:50 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:51:50 CST 2015
+2015-10-16 16:51:50 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 85667
+2015-10-16 16:51:53 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:51:53 CST 2015
+2015-10-16 16:51:53 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 85919
+2015-10-16 16:51:56 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:51:56 CST 2015
+2015-10-16 16:51:56 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 86171
+2015-10-16 16:51:59 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:51:59 CST 2015
+2015-10-16 16:51:59 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 86423
+2015-10-16 16:52:05 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:52:05 CST 2015
+2015-10-16 16:52:05 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 86675
+2015-10-16 16:52:08 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:52:08 CST 2015
+2015-10-16 16:52:08 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 86927
+2015-10-16 16:52:11 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:52:11 CST 2015
+2015-10-16 16:52:11 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 87179
+2015-10-16 16:52:14 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:52:14 CST 2015
+2015-10-16 16:52:14 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 87431
+2015-10-16 16:52:17 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:52:17 CST 2015
+2015-10-16 16:52:17 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 87683
+2015-10-16 16:52:20 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:52:20 CST 2015
+2015-10-16 16:52:20 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 87935
+2015-10-16 16:52:23 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:52:23 CST 2015
+2015-10-16 16:52:23 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 88187
+2015-10-16 16:52:26 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:52:26 CST 2015
+2015-10-16 16:52:26 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 88439
+2015-10-16 16:52:29 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Fri Oct 16 16:52:29 CST 2015
+2015-10-16 16:52:29 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 88691
+2015-10-20 16:53:46 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2015-10-20 16:53:46 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-10-20 16:53:46 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.6.5 created.
+2015-10-20 16:53:46 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2015-10-20 16:53:46 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-10-20 16:53:46 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.6.5
+2015-10-20 16:53:46 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-10-20 16:53:47 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Tue Oct 20 16:53:47 CST 2015
+2015-10-20 16:53:47 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 89804
+2015-10-20 16:53:50 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Tue Oct 20 16:53:50 CST 2015
+2015-10-20 16:53:50 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 90056
+2015-10-20 16:53:53 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Tue Oct 20 16:53:53 CST 2015
+2015-10-20 16:53:53 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 90308
+2015-10-20 16:53:56 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Tue Oct 20 16:53:56 CST 2015
+2015-10-20 16:53:56 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 90560
+2015-10-20 16:53:59 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Tue Oct 20 16:53:59 CST 2015
+2015-10-20 16:53:59 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 90812
+2015-10-20 16:54:05 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Tue Oct 20 16:54:05 CST 2015
+2015-10-20 16:54:05 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 91064
+2015-10-20 16:54:08 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Tue Oct 20 16:54:08 CST 2015
+2015-10-20 16:54:08 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 91316
+2015-10-20 16:54:11 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Tue Oct 20 16:54:11 CST 2015
+2015-10-20 16:54:11 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 91568
+2015-10-20 16:54:14 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Tue Oct 20 16:54:14 CST 2015
+2015-10-20 16:54:14 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 91820
+2015-10-20 16:54:17 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Tue Oct 20 16:54:17 CST 2015
+2015-10-20 16:54:17 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 92072
+2015-10-20 16:54:20 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] SCANDIRECTORYJOB fired at Tue Oct 20 16:54:20 CST 2015
+2015-10-20 16:54:20 [z.pub.quartz.job.ScanDirectoryJob]-[INFO] D:\myeclipse\gsecdsworkspace\SpringConf\SpringConf.log - Size: 92324
