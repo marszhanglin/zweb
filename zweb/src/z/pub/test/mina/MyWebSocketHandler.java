@@ -18,9 +18,9 @@ import org.apache.mina.core.session.IoSession;
  * @author Mars zhang
  * @created 2016年1月21日 下午7:39:43
  */
-public class MyHandler extends IoHandlerAdapter {
+public class MyWebSocketHandler extends IoHandlerAdapter {
     
-    public static Log logger = LogFactory.getLog(MyHandler.class); 
+    public static Log logger = LogFactory.getLog(MyWebSocketHandler.class); 
     
     @Override
     public void exceptionCaught(IoSession session, Throwable cause) throws Exception {
@@ -32,17 +32,17 @@ public class MyHandler extends IoHandlerAdapter {
     //接收消息回调
     @Override
     public void messageReceived(IoSession session, Object message) throws Exception {
-        System.out.println("messageReceived"+message);
+        System.out.println("messageReceived"+message.getClass().getName());
         logger.info("messageReceived");
     }
-
+    
     //发送消息回调
     @Override
     public void messageSent(IoSession session, Object message) throws Exception {
-        System.out.println("messageSent");
+        System.out.println("messageSent"+message);
         logger.info("messageSent");
     }
-
+    
     //session关闭回调
     @Override
     public void sessionClosed(IoSession session) throws Exception {

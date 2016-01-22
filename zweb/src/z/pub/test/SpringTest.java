@@ -13,7 +13,10 @@ import org.quartz.Scheduler;
 
 import z.pub.quartz.job.ScanDirectoryJob;
 import z.pub.quartz.scheduler.SchedulerManager;
-import z.pub.test.mina.MyHandler;
+import z.pub.test.mina.MyWebSocketHandler;
+import z.pub.test.mina.factory.MyWebSocketFactory;
+import z.pub.test.mina.factory.WebSocketDecoder;
+import z.pub.test.mina.factory.WebSocketEncoder;
 
 /**
  * 
@@ -34,7 +37,7 @@ public class SpringTest {
         System.out.println("SpringTest.SpringTest--容器启动bean的构造函数也启动");
         // SpringTest.springWhenBeanRun();//
         // nativeJdbcServer.doSomething();
-        
+
         startMinaSocketService();
     }
 
@@ -67,9 +70,12 @@ public class SpringTest {
         // 1、初始化
         NioSocketAcceptor nioSocketAcceptor = new NioSocketAcceptor();
         // 2、处理回调
-        nioSocketAcceptor.setHandler(new MyHandler());
+        nioSocketAcceptor.setHandler(new MyWebSocketHandler());
         // 3、消息数据转换(对象转字节) 要自定义的写 这里用mina内置的一个
-        nioSocketAcceptor.getFilterChain().addLast("codec", new ProtocolCodecFilter(new TextLineCodecFactory()));
+        // nioSocketAcceptor.getFilterChain().addLast("codec", new
+        // ProtocolCodecFilter(new TextLineCodecFactory()));
+        nioSocketAcceptor.getFilterChain().addLast("codec",
+                new ProtocolCodecFilter(new MyWebSocketFactory(new WebSocketEncoder(), new WebSocketDecoder())));
         // 4、地址
         try {
             nioSocketAcceptor.bind(new InetSocketAddress(8088));
