@@ -4,11 +4,11 @@
 目标：
 	1、搭载spring
 	1.1、请求路径框架搭建  springMVC
-	2、搭载hibernate结合spring  连接mysql数据库    
+	2、搭载hibernate结合spring  连接mysql及oracle数据库     
 	3、hibernate自动建表
 	4、引入androidpn的mina框架
 	4.1、编解码WebSocket数据        /zweb/src/z/pub/test/mina/factory/MyWebSocketFactory.java
-	5、与移动端简单交互
+	5、与移动端简单交互  
 	6、将项目部署在linux上(后续实时更新)
 	7、
 	
@@ -21,13 +21,14 @@
 	4、完成springmvc请求搭建及model自动转xml/json    Open Declaration z.pub.test.SpringControllerTest
 	5、提交github
 	6、初步引入mina     				监听客户端socket连接
-	7
+	7、移植androidpn的org下xmpp相关的工具类到该工程   
+	8、还未引入hibernate   完成连接mysql
 	
 	
 	
 	
 疑惑：
-	1、一个<Filter>对应三个<filter-mapping>可以吗？       			web.xml SessionFilter
+	1、一个<Filter>对应三个<filter-mapping>？       			web.xml SessionFilter
 	
 	
 	
@@ -38,9 +39,14 @@
 	
 jar包管理：
      1、mina : mina-core-2.0.0-RC1.jar   slf4j-api-1.5.8.jar  slf4j-log4j12-1.5.8.jar
+     
+     
+     2、xmpp : xpp3-1.1.4c.jar   
 	
 	
-	
+	 3、Document ：  dom4j-1.6.1.jar
+	 
+		
 	
 	
 	
