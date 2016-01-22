@@ -83,7 +83,7 @@
 
     <!-- 加载配置文件 -->
     <context:property-placeholder location="classpath:jdbc.properties" />
-    <!-- 定义数据源 -->
+    <!-- 定义数据源 c3p0-->
     <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource"
         destroy-method="close">
         <property name="driverClass">

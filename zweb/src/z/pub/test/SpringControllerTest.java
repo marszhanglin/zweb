@@ -71,5 +71,12 @@ public class SpringControllerTest {
         modelMap.addAttribute("abc");
         return "user";//如果是json与xml这里可以返回空null;
     }
+    
+    
+    @RequestMapping(value="spring/test/websocket")
+    public String  renderWebsocketJsp(){ 
+        return "websocket";
+    }
+    
 
 }
