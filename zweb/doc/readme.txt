@@ -7,6 +7,7 @@
 	2、搭载hibernate结合spring  连接mysql数据库    
 	3、hibernate自动建表
 	4、引入androidpn的mina框架
+	4.1、编解码WebSocket数据        /zweb/src/z/pub/test/mina/factory/MyWebSocketFactory.java
 	5、与移动端简单交互
 	6、将项目部署在linux上(后续实时更新)
 	7、
@@ -20,7 +21,7 @@
 	4、完成springmvc请求搭建及model自动转xml/json    Open Declaration z.pub.test.SpringControllerTest
 	5、提交github
 	6、初步引入mina     				监听客户端socket连接
-	
+	7
 	
 	
 	
