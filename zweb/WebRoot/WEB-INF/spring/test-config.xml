@@ -14,10 +14,10 @@
 		http://www.springframework.org/schema/aop 
 		http://www.springframework.org/schema/aop/spring-aop-2.5.xsd">
 	
-	<!-- <context:annotation-config/> --> <!-- @Autowired 支持自动装载bean 必须要有get方法-->	
-	<!-- <context:component-scan base-package="z"/>  --><!-- @Service@Repository@Controller@Component 自动扫描成bean不用再陪-->
+	 <context:annotation-config/> <!-- @Autowired 支持自动装载bean 必须要有set方法-->	
+	 <context:component-scan base-package="z"/> <!-- @Service@Repository@Controller@Component 自动扫描成bean不用再陪-->
 	
-	<bean id="firsttestbeanid" scope="singleton" class="z.pub.test.SpringTest"></bean>
+	<!-- <bean id="firsttestbeanid" scope="singleton" class="z.pub.test.SpringTest"></bean> -->
 	
 	 
 </beans>

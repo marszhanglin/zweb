@@ -1,6 +1,6 @@
 
 
-							《一》项目情况：
+							《一》情况：
 目标：
 	1、搭载spring
 	1.1、请求路径框架搭建  springMVC
@@ -20,9 +20,9 @@
 	3、初步搭载日志系统log4j              /zweb/src/log4j.properties
 	4、完成springmvc请求搭建及model自动转xml/json    Open Declaration z.pub.test.SpringControllerTest
 	5、提交github
-	6、初步引入mina     				监听客户端socket连接
+	6、初步引入mina     				监听客户端socket连接      对协议及数据的编解码还未了解
 	7、移植androidpn的org下xmpp相关的工具类到该工程   
-	8、还未引入hibernate   完成连接mysql
+	8、建jdbc.properties及ds-config.xml引入  配置了一个mysql的dataSource
 	
 	
 	
@@ -46,9 +46,15 @@ jar包管理：
 	
 	 3、Document ：  dom4j-1.6.1.jar
 	 
+	 4、hibernate ：缓存：ehcache-1.6.1.jar  
+	 					 hibernate-annotations-3.4.0.GA.jar 
+	 					 hibernate-commons-annotations-3.1.0.GA.jar
+	 					 hibernate-core-3.3.1.GA.jar
+	 					 hsqldb-1.8.0.10.jar
+	 					 ejb3-persistence-1.0.2.GA.jar
 		
 	
+	4、mysql ： mysql-connector-java-5.1.6.jar
 	
-	
-	
+	5、    antlr-2.7.6.jar   干嘛用？  没有此包，hibernate不会执行hql语句
 	
