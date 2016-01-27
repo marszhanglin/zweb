@@ -63,7 +63,7 @@ public class WebSocketENcoder2 extends ProtocolEncoderAdapter {
     @Override
     public void encode(IoSession session, Object message, ProtocolEncoderOutput encoderOutput)
             throws CharacterCodingException {
-        IoBuffer buff = IoBuffer.allocate(1024).setAutoExpand(true);
+        IoBuffer buff = IoBuffer.allocate(1024).setAutoExpand(true);   //分配内存  内存不够时自动增长
         WSSessionState status = getSessionState(session);
         switch (status) {
             case Handshake:

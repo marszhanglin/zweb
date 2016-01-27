@@ -23,7 +23,7 @@
 	6、初步引入mina     				监听客户端socket连接      对协议及数据的编解码还未了解
 	7、移植androidpn的org下xmpp相关的工具类到该工程   
 	8、建jdbc.properties及ds-config.xml引入  配置了一个mysql的dataSource
-	
+	9、建hibernate.cfg.xml及db-config.xml  配置了dao service
 	
 	
 	
@@ -52,9 +52,10 @@ jar包管理：
 	 					 hibernate-core-3.3.1.GA.jar
 	 					 hsqldb-1.8.0.10.jar
 	 					 ejb3-persistence-1.0.2.GA.jar
-		
+						 antlr-2.7.6.jar   干嘛用？  没有此包，hibernate不会执行hql语句
 	
-	4、mysql ： mysql-connector-java-5.1.6.jar
+	4、mysql ： mysql-connector-java-5.1.6.jar 
 	
-	5、    antlr-2.7.6.jar   干嘛用？  没有此包，hibernate不会执行hql语句
+	
+	
 	
