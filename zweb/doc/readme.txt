@@ -2,14 +2,14 @@
 
 							《一》情况：
 目标：
-	1、搭载spring
-	1.1、请求路径框架搭建  springMVC
-	2、搭载hibernate结合spring  连接mysql及oracle数据库     
-	3、hibernate自动建表
-	4、引入androidpn的mina框架
+	1、搭载spring   00
+	1.1、请求路径框架搭建  springMVC   00
+	2、搭载hibernate结合spring  连接mysql及oracle数据库     00
+	3、hibernate自动建表       00
+	4、引入androidpn的mina框架       00
 	4.1、编解码WebSocket数据        /zweb/src/z/pub/test/mina/factory/MyWebSocketFactory.java
-	5、与移动端简单交互  
-	6、将项目部署在linux上(后续实时更新)
+	5、与移动端简单交互     
+	6、将项目部署在linux上(后续实时更新)    
 	7、
 	
 	
