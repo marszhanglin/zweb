@@ -10,7 +10,7 @@
 	4.1、编解码WebSocket数据        /zweb/src/z/pub/test/mina/factory/MyWebSocketFactory.java
 	5、与移动端简单交互     
 	6、将项目部署在linux上(后续实时更新)    
-	7、
+	7、引入jqueryMobile 完成用户管理
 	
 	
 执行情况：
@@ -54,8 +54,9 @@ jar包管理：
 	 					 ejb3-persistence-1.0.2.GA.jar
 						 antlr-2.7.6.jar   干嘛用？  没有此包，hibernate不会执行hql语句
 	
-	4、mysql ： mysql-connector-java-5.1.6.jar 
+	5、mysql ： mysql-connector-java-5.1.6.jar 
 	
-	
+	6、jstl : javax.servlet.jsp.jstl-1.2.0.v201105211821.jar   但是还未配web.xml还不能用
+			 javax.servlet.jsp.jstl.jar
 	
 	

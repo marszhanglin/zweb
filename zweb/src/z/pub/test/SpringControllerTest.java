@@ -80,7 +80,7 @@ public class SpringControllerTest {
         users.add(user2);
         modelMap.addAttribute(users);
         modelMap.addAttribute("abc");
-        return "user";// 如果是json与xml这里可以返回空null;
+        return "mobile/user";// 如果是json与xml这里可以返回空null;
     }
 
     @RequestMapping(value = "spring/test/websocket")

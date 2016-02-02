@@ -2,5 +2,6 @@ eclipse.preferences.version=1
 encoding//WebRoot/WEB-INF/jsp/websocket.jsp=UTF-8
 encoding//WebRoot/error/noSession.jsp=UTF-8
 encoding//WebRoot/index.jsp=UTF-8
+encoding//WebRoot/mobile/user.jsp=UTF-8
 encoding//WebRoot/nosession/sessiontest.jsp=UTF-8
 encoding/<project>=UTF-8
