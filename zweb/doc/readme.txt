@@ -39,6 +39,7 @@
 	
 jar包管理：
      1、mina : mina-core-2.0.0-RC1.jar   slf4j-api-1.5.8.jar  slf4j-log4j12-1.5.8.jar
+     		 mina-integration-beans-2.0.0-RC1.jar
      
      
      2、xmpp : xpp3-1.1.4c.jar   
@@ -56,7 +57,15 @@ jar包管理：
 	
 	5、mysql ： mysql-connector-java-5.1.6.jar 
 	
-	6、jstl : javax.servlet.jsp.jstl-1.2.0.v201105211821.jar   但是还未配web.xml还不能用
-			 javax.servlet.jsp.jstl.jar
+	6、jstl :  jstl.jar   standard.jar
 	
+	xmpp：------------
+	7、配置Configuration .property  commons-configuration-1.6.jar   ///zweb/src/z/pn/util/ConfigManager.java
+	
+	8、xmpp   tinder-1.2.1.jar
+	          libidn-1.15.jar
+	          commons-digester-2.0.jar
+	          config.properties
+			  config.xml
+	xmpp：------------
 	

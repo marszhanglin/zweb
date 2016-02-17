@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import z.pn.server.UserServer;
+import z.pn.server.UserService;
 
 /**
  * 描述 springmvc控制层测试
@@ -28,9 +28,9 @@ import z.pn.server.UserServer;
 public class SpringControllerTest {
 
     @Autowired
-    private UserServer userServer;
+    private UserService userServer;
 
-    public void setUserServer(UserServer userServer) {
+    public void setUserServer(UserService userServer) {
         this.userServer = userServer;
     }
 

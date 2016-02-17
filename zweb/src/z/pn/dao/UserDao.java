@@ -8,6 +8,7 @@ package z.pn.dao;
 import java.util.List;
 
 import z.pn.model.User;
+import z.pn.server.UserNotFoundException;
 
 /**
  * 描述  getHibernateTemplate()
@@ -25,4 +26,6 @@ public interface UserDao {
     public boolean exists(Long id);
     
     public List<User> getUsers();
+    
+    public User getUserByUsername(String username)    ;
 }

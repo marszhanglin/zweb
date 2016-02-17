@@ -16,6 +16,7 @@ import org.springframework.stereotype.Repository;
 
 import z.pn.dao.UserDao;
 import z.pn.model.User;
+import z.pn.server.UserNotFoundException;
 
 /**
  * 描述
@@ -106,4 +107,24 @@ public class UserDaoHibernate extends HibernateDaoSupport implements UserDao {
         return users;
     }
 
+    /**
+     * 描述
+     * @author Mars zhang
+     * @created 2016年2月10日 下午12:35:59
+     * @param username
+     * @return
+     * @throws UserNotFoundException
+     * @see z.pn.dao.UserDao#getUserByUsername(java.lang.String)
+     */
+    @Override
+    public User getUserByUsername(String username)     {
+        List users = getHibernateTemplate().find("from User where username=?",
+                username);
+        if (users == null || users.isEmpty()) {
+            System.out.println("User '" + username + "' not found");
+            return null;
+        } else {
+            return (User) users.get(0);
+        }
+    }
 }
