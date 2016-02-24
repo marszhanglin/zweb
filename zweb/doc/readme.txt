@@ -11,7 +11,7 @@
 	5、与移动端简单交互     
 	6、将项目部署在linux上(后续实时更新)    
 	7、引入jqueryMobile 完成用户管理
-	
+	8、引入AMQ
 	
 执行情况：
 	项目框架初步搭建：
@@ -24,7 +24,7 @@
 	7、移植androidpn的org下xmpp相关的工具类到该工程   
 	8、建jdbc.properties及ds-config.xml引入  配置了一个mysql的dataSource
 	9、建hibernate.cfg.xml及db-config.xml  配置了dao service
-	
+	10、成功引入amq  详见test下的amq
 	
 	
 疑惑：
@@ -68,4 +68,26 @@ jar包管理：
 	          config.properties
 			  config.xml
 	xmpp：------------
+	
+	9、amq  activemq-all-5.10.0.jar
+			activemq-broker-5.10.0.jar
+			activemq-client-5.10.0.jar
+			activemq-console-5.10.0.jar
+			activemq-jaas-5.10.0.jar
+			activemq-kahadb-store-5.10.0.jar
+			activemq-openwire-legacy-5.10.0.jar
+			activemq-protobuf-1.1.jar
+			activemq-spring-5.10.0.jar
+			activemq-web-5.10.0.jar
+			
+		还需要jetty的支持
+			jetty-all-server-7.6.9.v20130131.jar
+			jetty-client-8.1.16.v20140903.jar
+			jetty-http-8.1.16.v20140903.jar
+			jetty-io-8.1.16.v20140903.jar
+			jetty-jmx-8.1.16.v20140903.jar
+			jetty-server-8.1.16.v20140903.jar
+			jetty-servlet-8.1.16.v20140903.jar
+			jetty-util-8.1.16.v20140903.jar
+			jetty-websocket-7.6.9.v20130131.jar
 	

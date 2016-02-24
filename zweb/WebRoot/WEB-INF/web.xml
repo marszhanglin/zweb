@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
-  
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+                      http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+  version="3.0"
+  metadata-complete="true">
     <!-- spring容器设置监听 -->
     <context-param>
     <param-name>contextConfigLocation</param-name>
@@ -31,6 +35,7 @@
   <filter>
     <filter-name>SessionFilter</filter-name>
     <filter-class>z.pub.filter.SessionFilter</filter-class>
+    <async-supported>true</async-supported>
     <init-param>
       <param-name>redirectUrl</param-name>
       <param-value>/login.jsp</param-value>
@@ -59,10 +64,31 @@
   
   
   
+  
+      <!-- 消息队列配置 -->
+    <context-param> 
+		<param-name>org.apache.activemq.brokerURL</param-name>  
+		<param-value>tcp://127.0.0.1:61616</param-value>
+	</context-param>
+    <servlet>
+        <servlet-name>AjaxServlet</servlet-name>
+        <servlet-class>org.apache.activemq.web.AjaxServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+		<async-supported>true</async-supported>
+    </servlet>    
+    <servlet-mapping>
+        <servlet-name>AjaxServlet</servlet-name>
+        <url-pattern>/amq/*</url-pattern>
+    </servlet-mapping>
+  
+  
+  
+  
   <filter>
     <display-name>EncodingFilter</display-name>
     <filter-name>EncodingFilter</filter-name>
     <filter-class>z.pub.filter.EncodingFilter</filter-class>
+    <async-supported>true</async-supported>
     <init-param>
       <param-name>encoding</param-name>
       <param-value>UTF-8</param-value>

@@ -16,7 +16,6 @@
 		
 		
  	  
-	<!-- <bean id="appUtil" class="z.pn.xmpp.XmppServer"/> -->
 	
 	<!-- =============================================================== -->
 	<!-- MINA                                                            -->
@@ -30,7 +29,8 @@
 			</map>
 		</property>
 	</bean>  
-
+	
+	
 	<bean id="xmppHandler" class="z.pn.xmpp.net.XmppIoHandler" />
 
 	<bean id="filterChainBuilder"
