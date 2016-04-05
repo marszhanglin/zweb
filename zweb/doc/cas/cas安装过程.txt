@@ -1,0 +1,59 @@
+http://wenku.baidu.com/link?url=W6GIjsGHgH1UecibGEwOEKM_tVz18rNG28_k1Z8UWdQGDP3f2i82DiJjF6n-8T2SlJdIr2X5fZZ1hSd833OZMFw4nhevRUv1ZgT29ERhX2K
+
+cmd进入tomcat目录
+1、生成服务端密钥文件
+keytool -genkey -alias casserver -keypass demosso -keyalg RSA -keystore casserver.keystore -validity 365
+输入口令：evecom
+..
+生成D:\tomcat\apache_tomcat6_cas\casserver.keystore
+
+
+2、生成服务端证书
+keytool -export -alias casserver -storepass evecom -file casserver.cer -keystore casserver.keystore
+生成：casserver.cer
+ 
+3、导入证书文件到cacerts密钥库文件   此命令是把证书导入到JDK中
+keytool -import -keystore cacerts -file casserver.cer -alias cacerts
+输入密码：evecom
+生成：cacerts
+
+
+http://blog.csdn.net/small_love/article/details/6664831
+4、配置tomcat下的service.xml  
+注释掉如下代码段：
+<Connector port="80"protocol="HTTP/1.1" connectionTimeout="20000"  redirectPort="8443"/>  
+并取消注释：
+<Connectorport="8443" protocol="HTTP/1.1" SSLEnabled="true"…/>代码段，
+改成：
+    <!-- cas要这行  加上  keystoreFile="/casserver.keystore"   keystorePass="evecom" truststoreFile="/cacerts"-->
+    <Connector port="8443" protocol="HTTP/1.1" SSLEnabled="true"
+			  keystoreFile="/casserver.keystore"   keystorePass="evecom" truststoreFile="/cacerts"
+               maxThreads="150" scheme="https" secure="true"
+               clientAuth="false" sslProtocol="TLS" />
+5、拷贝war包
+	下载好的CAS的服务端，解压，把解压后的文件中modules文件夹中的cas-server-webapp-3.4.8.war
+	文件拷贝的%TOMCAT_HOME%\webapps
+	
+6、生成客户端密钥库文件
+keytool -import -trustcacerts -alias casclient   -file casserver.cer -keystore cacerts
+
+
+
+
+7、不配秘钥  service.xml配成这样就可以跑
+    <Connector port="8443" protocol="HTTP/1.1"   />
+
+8、下载客户端http://developer.jasig.org/cas-clients/
+
+
+9、配置jndi   
+jdbc:
+
+ldap:
+http://blog.163.com/magicc_love/blog/static/18585366220132294648822/
+
+
+
+
+
+

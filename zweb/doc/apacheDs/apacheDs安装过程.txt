@@ -1,0 +1,58 @@
+1、下载apacheds  http://directory.apache.org/apacheds/download/download-windows.html
+2、双击exe   选择安装目录   D:\ldap\   D:\ldap\instances  
+3、选择java home directory  D:\jdk
+4、下载studio http://directory.apache.org/studio/download/download-windows.html
+5、安装studio 
+6、studio连接apacheds       http://www.360doc.com/content/14/0520/22/4171006_379465493.shtml
+7、 http://wenku.baidu.com/view/4f3031a2e87101f69f31951e.html?from=search###
+
+
+8、java调apacheds  http://mblxiaoming1987.blog.163.com/blog/static/5519182620098114835658/
+http://wenku.it168.com/d_000969358.shtml
+http://wenku.it168.com/d_000969359.shtml
+demo：
+http://edwin.baculsoft.com/2011/10/ldap-programming-with-java/
+
+http://blog.163.com/magicc_love/blog/static/18585366220132294648822/
+
+LDAP_SUCCESS = 0 //成功 
+LDAP_OPERATIONS_ERROR = 1 //操作错误 
+LDAP_PROTOCOL_ERROR = 2 //协议错误 
+LDAP_TIME_LIMIT_EXCEEDED = 3 //超过最大时间限制 
+LDAP_SIZE_LIMIT_EXCEEDED = 4 //超过最大返回条目数 
+LDAP_COMPARE_FALSE = 5 //比较不匹配 
+LDAP_COMPARE_TRUE = 6 //比较匹配 
+LDAP_AUTH_METHOD_NOT_SUPPORTED = 7 //认证方法未被支持 
+LDAP_STRONG_AUTH_REQUIRED = 8 //需要强认证 
+LDAP_PARTIAL_RESULTS = 9 //null 
+LDAP_REFERRAL = 10 //Referral 
+LDAP_ADMIN_LIMIT_EXCEEDED = 11 //超出管理员权限 
+LDAP_UNAVAILABLE_CRITICAL_EXTENSION = 12 //Critical扩展无效 
+LDAP_CONFIDENTIALITY_REQUIRED = 13 //需要Confidentiality 
+LDAP_SASL_BIND_IN_PROGRESS = 14 //需要SASL绑定 
+LDAP_NO_SUCH_ATTRIBUTE = 16 //未找到该属性 
+LDAP_UNDEFINED_ATTRIBUTE_TYPE = 17 //未定义的属性类型 
+LDAP_INAPPROPRIATE_MATCHING = 18 //不适当的匹配 
+LDAP_CONSTRAINT_VIOLATION = 19 //约束冲突 
+LDAP_ATTRIBUTE_OR_value_EXISTS = 20 //属性或值已存在 
+LDAP_INVALID_ATTRIBUTE_SYNTAX = 21 //无效的属性语法 
+LDAP_NO_SUCH_OBJECT = 32 //未找到该对象 
+LDAP_ALIAS_PROBLEM = 33 //别名有问题 
+LDAP_INVALID_DN_SYNTAX = 34 //无效的DN语法 
+LDAP_IS_LEAF = 35 //null 
+LDAP_ALIAS_DEREFERENCING_PROBLEM = 36 //Dereference别名有问题 
+LDAP_INAPPROPRIATE_AUTHENTICATION = 48 //不适当的认证 
+LDAP_INVALID_CREDENTIALS = 49 //无效的Credential 
+LDAP_INSUFFICIENT_ACCESS_RIGHTS = 50 //访问权限不够 
+LDAP_BUSY = 51 //遇忙 
+LDAP_UNAVAILABLE = 52 //无效 
+LDAP_UNWILLING_TO_PERform = 53 //意外问题 
+LDAP_LOOP_DETECT = 54 //发现死循环 
+LDAP_NAMING_VIOLATION = 64 //命名冲突 
+LDAP_OBJECT_CLASS_VIOLATION = 65 //对象类冲突 
+LDAP_NOT_ALLOWED_ON_NON_LEAF = 66 //不允许在非叶结点执行此操作 
+LDAP_NOT_ALLOWED_ON_RDN = 67 //不允许对RDN执行此操作 
+LDAP_ENTRY_ALREADY_EXISTS = 68 //Entry已存在 
+LDAP_OBJECT_CLASS_MODS_PROHIBITED = 69 //禁止更改对象类 
+LDAP_AFFECTS_MULTIPLE_DSAS = 71 //null 
+LDAP_OTHER = 80 //其它 

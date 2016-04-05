@@ -12,7 +12,7 @@
 	6、将项目部署在linux上(后续实时更新)    
 	7、引入jqueryMobile 完成用户管理
 	8、引入AMQ
-	
+	9、单点登录及统一认证     ldap(apacheDS)  cas  http://blog.csdn.net/zhurhyme/article/category/2362091/3
 执行情况：
 	项目框架初步搭建：
 	1、初步搭载spring框架  			  	web.xml	/zweb/WebRoot/WEB-INF/spring/test-config.xml
@@ -25,8 +25,9 @@
 	8、建jdbc.properties及ds-config.xml引入  配置了一个mysql的dataSource
 	9、建hibernate.cfg.xml及db-config.xml  配置了dao service
 	10、成功引入amq  详见test下的amq
-	
-	
+	11、引入jutil4   就一个jutil4包   
+	12、完成JNDI连接ApacheDS    z.pub.test.jndi.JNDITest
+	13、单点登录cas  
 疑惑：
 	1、一个<Filter>对应三个<filter-mapping>？       			web.xml SessionFilter
 	
