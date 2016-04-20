@@ -24,6 +24,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     welcome-file-----index.jsp 
    <br> 
    <a href="<%=basePath%>spring/test/websocket">websocket-mina</a>
+   <a href="http://192.168.5.55:9001">node socket.io</a>
+   <a href="<%=basePath%>node/public/index.html">node socket.io 跨域解决</a>
    <a href="<%=basePath%>pn/user/list">pn/user/list</a>
    <a href="<%=basePath%>pn/session/list">pn/session/list</a>
    <a href="<%=basePath%>pn/notification/form">pn/notification/form</a>

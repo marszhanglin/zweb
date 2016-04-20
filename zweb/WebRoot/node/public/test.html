@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>预案</title> 
+		<!--<script src="/zweb/node/public/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+        <script src="/zweb/node/public/js/socket.io.min.js" type="text/javascript"></script>
+		<script src="/zweb/node/public/js/chat.js" type="text/javascript"></script>
+		<script src="/zweb/node/public/js/chat_ui.js" type="text/javascript"></script>-->
+		<script src="./js/jquery-1.8.3.min.js" type="text/javascript"></script>
+		
+		<!-- socket.io-1.4.5.js socket.io.min.js -->
+        <script src="./js/socket.io-1.4.5.js" type="text/javascript"></script>
+		<script src="./js/chat.js" type="text/javascript"></script>
+		<script src="./js/chat_ui.js" type="text/javascript"></script>
+		<script  type="text/javascript">
+			var chat = io.connect('http://localhost/foo');
+			  $(document).ready(function(){ 
+					 chat.on('message', function (a) {
+						console.log(a);
+						chat.emit('hi!');
+					  });
+			  
+			  });
+			  
+			  function push(){
+			  
+			  chat.emit("push",{psdata:$("#message_send_input").val()});
+			  }
+		</script>
+    </head>
+    <body>
+	<h1>消息</h1><h3 id="room_input_id"></h3>
+		
+         <div id="room_list" ></div>
+		 <div id="message_div" style="width:380px;height:500px;"></div>  
+		 <input id="message_send_input" />  
+		 
+		 <button  id='message_submit' onclick="push();"> 测试 </button>
+    </body>
+</html>

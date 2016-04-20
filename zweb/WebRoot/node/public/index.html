@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>预案</title> 
+		<!--<script src="/zweb/node/public/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+        <script src="/zweb/node/public/js/socket.io.min.js" type="text/javascript"></script>
+		<script src="/zweb/node/public/js/chat.js" type="text/javascript"></script>
+		<script src="/zweb/node/public/js/chat_ui.js" type="text/javascript"></script>-->
+		<script src="./js/jquery-1.8.3.min.js" type="text/javascript"></script>
+        <script src="./js/socket.io.min.js" type="text/javascript"></script>
+		<script src="./js/chat.js" type="text/javascript"></script>
+		<script src="./js/chat_ui.js" type="text/javascript"></script>
+		<script  type="text/javascript">
+			var socket = io.connect('http://192.168.5.55:9001');
+			  $(document).ready(function(){
+				var chatApp=new Chat(socket);
+				
+				socket.on('nameResult',function(result){//连接后   后端会返回分配的用户名
+					var message='false';
+					if(result.success){
+						message= ' now your name is:'+result.name;
+					} 
+					$("#message_div").append(divSystemContentElement(message)); 
+				});
+				
+				socket.on('joinResult',function(result){//分配房间后   后端会返回分配的room名称
+					$("#room_input_id").text(result.room); 
+					$("#message_div").append(divSystemContentElement('room changed ..current room is '+result.room)); 
+				});
+				
+				socket.on('message',function(result){//接收到消息
+					$("#message_div").append('<div>'+result.text+'</div>'); 
+				 });
+				
+				
+				socket.on('rooms',function(rooms){//接收房间列表 
+					$("#room_list").empty();
+					for(var room in rooms){
+						$("#room_list").append(divEscapedContentElement(room));
+					}
+				 });
+				 
+				setInterval(function(){ //每隔1秒请求一次房间列表
+					socket.emit('getcurrentRooms');
+				 },1000);
+				
+				$("#message_submit").click(function(){
+					processUserInput(chatApp,socket); 
+				});
+				
+			  });
+		</script>
+    </head>
+    <body>
+	<h1>消息</h1><h3 id="room_input_id"></h3>
+		
+         <div id="room_list" ></div>
+		 <div id="message_div" style="width:380px;height:500px;"></div>  
+		 <input id="message_send_input" />  
+		 
+		 <button  id='message_submit'> 测试 </button>
+    </body>
+</html>
