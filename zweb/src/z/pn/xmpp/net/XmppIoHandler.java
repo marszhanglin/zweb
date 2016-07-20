@@ -74,7 +74,7 @@ public class XmppIoHandler implements IoHandler {
      * Invoked from an I/O processor thread when a new connection has been created.
      */
     public void sessionCreated(IoSession session) throws Exception {
-        System.out.println("sessionCreated()...");
+        System.out.println("XmppIoHandler.sessionCreated()...");
     }
 
     /**
@@ -101,7 +101,7 @@ public class XmppIoHandler implements IoHandler {
      * 获取自定义连接对象 并 关闭连接
      */
     public void sessionClosed(IoSession session) throws Exception {
-        System.out.println("sessionClosed()...");
+        System.out.println("XmppIoHandler.sessionClosed()...");
         //获取自定义连接对象
         Connection connection = (Connection) session.getAttribute(CONNECTION);
         //关闭连接
@@ -114,7 +114,7 @@ public class XmppIoHandler implements IoHandler {
      */
     public void sessionIdle(IoSession session, IdleStatus status)
             throws Exception {
-        System.out.println("sessionIdle()...");
+        System.out.println("XmppIoHandler.sessionIdle()...");
         //获取连接对象
         Connection connection = (Connection) session.getAttribute(CONNECTION);
 //        if (log.isDebugEnabled()) {
@@ -129,7 +129,7 @@ public class XmppIoHandler implements IoHandler {
      */
     public void exceptionCaught(IoSession session, Throwable cause)
             throws Exception {
-        System.out.println("exceptionCaught()...");
+        System.out.println("XmppIoHandler.exceptionCaught()...");
         System.out.print(cause);
     }
 
@@ -138,7 +138,7 @@ public class XmppIoHandler implements IoHandler {
      */
     public void messageReceived(IoSession session, Object message)
             throws Exception {
-        System.out.println("messageReceived()...");
+        System.out.println("XmppIoHandler.messageReceived()...");
         System.out.println("RCVD: " + message);
 
         // Get the stanza handler
@@ -172,7 +172,12 @@ public class XmppIoHandler implements IoHandler {
      * 发送消息  IoSession在其他地方调了ioSession.write(Object)
      */
     public void messageSent(IoSession session, Object message) throws Exception {
-        System.out.println("messageSent()...");
+        System.out.println("XmppIoHandler.messageSent()...");
     }
+
+	@Override
+	public void inputClosed(IoSession session) throws Exception {
+		System.out.println("XmppIoHandler.inputClosed()...");
+	}
 
 }
